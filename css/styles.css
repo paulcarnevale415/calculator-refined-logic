@@ -14,7 +14,17 @@
 @media (min-width: 1200px) { ... }
 
 h1 {
-  display: blovk;
+  display: block;
   margin-left: 0;
+  margin-bottom: 10;
   font-weight: bold;
+}
+
+h4 {
+  color: grey;
+
+}
+
+p {
+  color: black;
 }
